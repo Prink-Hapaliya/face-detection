@@ -3,7 +3,9 @@ This is a face detection project that uses machine learning techniques to detect
 
 # Features
 Detects faces in images with high accuracy.
+
 Supports processing multiple images in batch mode.
+
 Outputs processed images with bounding boxes around detected faces.
 
 # Results
