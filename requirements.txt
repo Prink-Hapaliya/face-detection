@@ -1,0 +1,7 @@
+labelem 
+opencv-python 
+matplotlib 
+albumentations
+tensorflow-gpu-base
+tensorflow 
+tensorflow-gpu
