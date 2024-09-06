@@ -15,7 +15,7 @@ The face detection project utilizes real-time face detection, providing live det
 As the project runs, it captures frames from a video feed or webcam, performs face detection on each frame, and overlays bounding boxes around the detected faces directly on the video feed.<br/>
 
 Here is an example of the output:<br/>
-![Screenshot (3)](https://github.com/prink22/face-detection/assets/90205818/be2ecff3-5ef6-4a0a-a7a3-7fefbf4230ee)</br>
+![Watch the video](https://github.com/Prink-Hapaliya/face-detection/blob/main/face_detection.mp4)</br>
 
 # Acknowledgments
 The face detection model used in this project is based on the OpenCV library and the albumentations.<br/>
